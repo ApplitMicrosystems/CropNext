@@ -13,11 +13,11 @@
 // Ubidots information
 
 #define URL        "things.ubidots.com"
-#define TOKEN      "WF1hbsrYltg5vwGDowAejTykHigEi5"          // replace with your Ubidots token generated in your profile tab
-#define VARIABLEID "55d5f6047625422b34eb0441"
-#define VARIABLEID1 "55d5f5e37625422ce1e0358f" //temprature
-#define VARIABLEID2 "55d4c74b7625424830973c35" //dust
-#define VARIABLEID3 "55d5fbf7762542363264e715" //crow
+#define TOKEN      "WF1hbsrYltg5xxvwGDowAejTykHigEi5"          // replace with your Ubidots token generated in your profile tab
+#define VARIABLEID "55d5f60476254xx22b34eb0441x"
+#define VARIABLEID1 "55d5f5e376254xx22ce1e035x8f" //temprature
+#define VARIABLEID2 "55d4c74b76254xx2483097x3c35" //dust
+#define VARIABLEID3 "55d5fbf77625423xx63264e715" //crow
 
 
 
