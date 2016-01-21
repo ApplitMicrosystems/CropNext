@@ -23,7 +23,7 @@
 
 
 
-Barometer myBarometer;
+Barometer myBarometer; 
 float temperature;
 unsigned long duration;
 unsigned long starttime;
